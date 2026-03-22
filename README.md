@@ -51,15 +51,6 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
-
-###
-
-## 🚀 Projects:
-- **Instagram Clone**: Built a microservices-based app with user search, post creation, and comments using **Spring Boot** and **ReactJS**.
-- **Food Ordering Platform**: Architected a scalable platform with Stripe API integration and real-time order tracking.
-- **Banking Web Application**: Developed secure and scalable banking solutions with role-based access and encryption.
-- **Subjective Answer Verifying System**: Automated exam answer evaluation using **TextRank** and **Cosine Similarity**.
-
 ###
 
 <br clear="both">
